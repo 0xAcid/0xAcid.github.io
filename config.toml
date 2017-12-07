@@ -1,0 +1,31 @@
+baseurl = "/"
+title = "Axi0mS' blog"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+PygmentsCodeFences = true
+PygmentsStyle = "friendly"
+
+[Author]
+    name = "Axi0mS"
+    bio = "Random french guy in security."
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "We're all alike :]" # Subtitle of your site
+    description = "Personal blog about security stuff (mostly)" # Description of your site
+    opengraph = true
+    readmore = true # Show "Read more" button in list if true
+    leftsidebar = true # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = false # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = false # Enable "Categories" widget
+    tags = false # Enable "Tags" widget
+	tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
