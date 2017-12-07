@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Axi0mS&#39; blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Axi0mS&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Frida to instrument Snapchat - 1</title>
+      <link>/post/using-frida-to-instrument-snapchat---1/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-frida-to-instrument-snapchat---1/</guid>
+      <description>Few years ago I took some days to take a look at Snapchat Android application when it came out on the market. Nobody was supposed to be able to keep the pictures you were sending, and if they did screenshot them, you would be notified. Of course, some people decided to dig into Snapchat internals and so did I. I was able to recover the original pictures using the symetric key they were using.</description>
+    </item>
+    
+    <item>
+      <title>__init__</title>
+      <link>/post/__init__/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/__init__/</guid>
+      <description>This blog is about sharing what I discover, learn or create. Mostly related to security, but might also be whatever I find funny or of interest to me. I am not a native speaker, so feel free to report any mistakes. If you ever want to contact me you can ping me on Twitter @Axi0m_S</description>
+    </item>
+    
+  </channel>
+</rss>
